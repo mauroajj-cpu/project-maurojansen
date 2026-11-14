@@ -1,5 +1,5 @@
 
-# Organizador de Declaração do Imposto de Rendatestando
+# Organizador de Declaração do Imposto de Renda
 
 Projeto desenvolvido em Excel durante os estudos no Bootcamp da DIO (Digital Innovation One) - Reclame AQUI - Dados e IA na Prática nas aulas do professor Felipão. A proposta foi criar uma ferramenta
 prática para reunir e organizar informações e documentos que podem ser

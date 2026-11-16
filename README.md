@@ -1,4 +1,3 @@
-
 # Organizador de Declaração do Imposto de Renda
 
 Projeto desenvolvido em Excel durante os estudos no Bootcamp da DIO (Digital Innovation One) - Reclame AQUI - Dados e IA na Prática nas aulas do professor Felipão. A proposta foi criar uma ferramenta
@@ -9,6 +8,7 @@ Pessoa Física (DIRPF).
 
 
 ## Sobre o Projeto
+
 O arquivo funciona como um organizador de dados financeiros e
 cadastrais. Ele reúne, em uma única pasta de trabalho, campos para
 identificação do titular, informes bancários e registros de entradas e
@@ -24,9 +24,11 @@ declaração.
 
 A pasta de trabalho está dividida em quatro abas:
 
-## 1. TITULO
+## 1\. TITULO
+
 Área destinada ao cadastro das informações pessoais do contribuinte,
 incluindo:
+
 * Nome e CPF;
 * Data de nascimento e título de eleitor;
 * Informações sobre o cônjuge;
@@ -34,26 +36,32 @@ incluindo:
 * Telefone, celular e e-mail;
 * Algumas informações complementares relacionadas à declaração.
 
-## 2. INFORMES 
+## 2\. INFORMES
+
 Área para registrar informações de instituições bancárias e respectivos
 valores, com espaço para identificar os documentos anexos.
 
 A planilha também apresenta um campo de totalização dos valores
 informados.
 
-## 3. NOTAS
+## 3\. NOTAS
+
 Área para organizar movimentações financeiras, separadas em:
-*  **Entradas:** data, categoria e valor;
+
+* **Entradas:** data, categoria e valor;
 * **Saídas:** data e valor.
 
 Essa organização ajuda a acompanhar os registros financeiros ao longo do período.
 
-## 4. Tabelas de apoio
+## 4\. Tabelas de apoio
+
 Aba de apio que contém uma relação de instruções bancárias
 , utilizada como referência para o preenchimento de dados bancários.
 
 
+
 ## Como utilizar o APP/Planilha
+
 **1.** Faça o download do arquivo AppMauroJansenDIO.xlsx.
 
 **2.** Abra-o no Microsoft Excel ou em um aplicativo compatível.
@@ -73,7 +81,8 @@ correspondentes e anexe os documentos de comprovação/extratos bancários.
 * Lista de referência de instituições bancárias;
 * Estruturação de campos para cadastro e controle de informação;
 * Imagens de logos do Linkedin, email e whatsapp;
-* Links🔗 de informações do autor - [Linkedin](https://www.linkedin.com/in/mauro-jansen-204488104/), [Gmail](mailto:mauroajj@gmail.com?subject=Ol%C3%A1%2C%20Contrate-me!!) e [Whatsapp](https://wa.me/5598985947388).
+* Links🔗 de informações do autor - [Linkedin](https://www.linkedin.com/in/mauro-jansen-204488104/), [Gmail](mailto:mauroajj@gmail.com?subject=Olá,%20Contrate-me%21%21) e [Whatsapp](https://wa.me/5598985947388).
+
 
 
 ## Aprendizados
@@ -85,11 +94,13 @@ estruturação de informações, a organização de dados e a criação de uma
 ferramenta com finalidade definida.
 
 ## Observação importante!
+
 Este arquivo é um projeto de organização e apoio. Ele não substitui
 o programa oficial da Receita Federal, não transmite declarações e não
 verifica, por si só, a existência de todas as informações ou obrigações
 tributárias do contribuinte.
-## Autor
 
-- [@mauroajj-cpu](https://github.com/mauroajj-cpu)
+## Autor!
+
+* [@mauroajj-cpu](https://github.com/mauroajj-cpu)
 
